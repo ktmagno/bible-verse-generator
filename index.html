@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- css -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- for social media logos -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+
+    <!-- bible verses script -->
+    <script src="script.js"></script>
+
+    <!-- logo -->
+    <link rel="shortcut icon" href="images/logo.png" />
+
+    <!-- imported fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Bible Verse Generator</title>
+  </head>
+
+  <body>
+    <main>
+      <article>
+        <p id="verseDisplay">Let's read some bible verse!</p>
+
+        <hr width="100%" size="2" color="antiquewhite" />
+
+        <center>
+          <button onclick="newVerse()">
+            <img src="images/diamond-heart.png" style="max-width: 15%" />
+          </button>
+        </center>
+      </article>
+    </main>
+
+    <footer>
+      <div class="footer-content">
+        <h4>Bible Verse Generator</h4>
+        <p>Copyright &copy RSVCE</p>
+      </div>
+
+      <div class="footer-content">
+        <h4>Contact</h4>
+        <p>Have any questions or concerns?</p>
+        <p><a href="mailto:karenmagno96@gmail.com">Send a message</a></p>
+      </div>
+
+      <div class="footer-content">
+        <h4>Share</h4>
+
+        <div class="share-buttons">
+          <img class="pinterest-img" />
+          <ul>
+            <li>
+              <a class="facebook-share" target="blank"
+                ><i class="fab fa-facebook"></i
+              ></a>
+            </li>
+            <li>
+              <a class="twitter-share" target="blank"
+                ><i class="fab fa-twitter"></i
+              ></a>
+            </li>
+            <li>
+              <a class="linkedin-share" target="blank"
+                ><i class="fa-brands fa-linkedin-in"></i
+              ></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+
+  <!-- js for social media sharing -->
+  <script src="socmed.js"></script>
+</html>
