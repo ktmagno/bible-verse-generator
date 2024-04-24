@@ -360,6 +360,9 @@ var verse = [
   `And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved\n\n<i>ACTS 4:12</i>`,
   `And my God will supply every need of yours according to his riches in glory in Christ Jesus\n\n<i>PHILIPPIANS 4:19</i>`,
   `For My thoughts are not your thoughts, neither are your ways My ways, says the Lord\n\n<i>ISAIAH 55:8</i>`,
+  `That your faith might not rest in the wisdom of men, but in the power of God\n\n<i>1 CORINTHIANS 2:5</i>`,
+  `And he will be the stability of your times, abundance of salvation, wisdom, and knowledge; the fear of the Lord is his treasure\n\n<i>ISAIAH 6:33</i>`,
+  `You will tread on the lion and the adder, the young lion and the serpent you will trample under foot. Because he cleaves to me in love, I will deliver him; I will protect him, because he knows My name\n\n<i>PSALMS 91:13-14</i>`,
 ];
 
 function newVerse() {
