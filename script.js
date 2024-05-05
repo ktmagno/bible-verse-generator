@@ -363,6 +363,7 @@ var verse = [
   `That your faith might not rest in the wisdom of men, but in the power of God\n\n<i>1 CORINTHIANS 2:5</i>`,
   `And he will be the stability of your times, abundance of salvation, wisdom, and knowledge; the fear of the Lord is his treasure\n\n<i>ISAIAH 6:33</i>`,
   `You will tread on the lion and the adder, the young lion and the serpent you will trample under foot. Because he cleaves to me in love, I will deliver him; I will protect him, because he knows My name\n\n<i>PSALMS 91:13-14</i>`,
+  `But now put them all away: anger, wrath, malice, slander, and foul talk from your mouth\n\n<i>COLOSSIANS 3:9</i>`
 ];
 
 function newVerse() {
