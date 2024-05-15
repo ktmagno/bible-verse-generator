@@ -365,7 +365,8 @@ var verse = [
   `You will tread on the lion and the adder, the young lion and the serpent you will trample under foot. Because he cleaves to me in love, I will deliver him; I will protect him, because he knows My name\n\n<i>PSALMS 91:13-14</i>`,
   `But now put them all away: anger, wrath, malice, slander, and foul talk from your mouth\n\n<i>COLOSSIANS 3:9</i>`,
   `He must increase, but I must decrease\n\n<i>JOHN 3:30</i>`,
-  `Repay no one evil for evil, but take thought for what is noble in the sight of all\n\n<i>ROMANS 12:17</i>`
+  `Repay no one evil for evil, but take thought for what is noble in the sight of all\n\n<i>ROMANS 12:17</i>`,
+  `There is a great gain in godliness with contentment\n\n<i>1 TIMOTHY 6:6</i>`
 ];
 
 function newVerse() {
