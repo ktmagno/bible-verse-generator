@@ -6,6 +6,7 @@
 
 body {
   font-family: "Inter", sans-serif;
+  font-weight: 100;
   background-image: url(images/bg-image.jpg);
   background-size: cover;
   background-position: center;
@@ -17,43 +18,42 @@ body {
   justify-content: center;
 }
 
-main {
-  max-width: 80vw;
-  margin: 0 auto;
-  padding: 30px 20px;
-}
-
-/* it's the container box actually */
-article {
+.container {
+  max-width: 800px;
+  min-height: fit-content;
   background-color: rgb(230, 200, 185);
   opacity: 0.8;
   padding: 20px;
-  /* margin-bottom: 20px; */
+  margin: auto;
   border-radius: 20px;
   display: grid;
 }
 
-article p {
+.container p {
   font-size: 30px;
-  font-weight: 450;
+  font-weight: 500;
   text-align: center;
   padding: 30px;
   isolation: isolate;
 }
 
-article button {
+button {
   background-color: transparent;
   border: none;
   cursor: pointer;
   isolation: isolate;
 }
 
-article button:hover {
+button:hover {
   transform: scale(1.2);
 }
 
+img {
+  margin: 10px;
+}
+
 /* responsive 3 column footer */
-footer {
+/* footer {
   background-color: rgb(230, 200, 185);
   padding: 1em;
   margin-top: auto;
@@ -84,36 +84,45 @@ footer {
 
 .share-buttons li:hover {
   opacity: 1;
-}
+} */
 
-/* for tablet and phones */
-@media (max-width: 768px) {
-  main {
-    max-width: 80vw;
-    margin: 0 auto;
-    padding: 20px 10px;
+@media (max-width: 900px) {
+  .container {
+    max-width: 700px;
+    min-height: fit-content;
+    background-color: rgb(230, 200, 185);
+    opacity: 0.8;
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    display: grid;
   }
-
-  article p {
-    font-size: 22px;
-    font-weight: 450;
+  
+  .container p {
+    font-size: 25px;
+    font-weight: 500;
     text-align: center;
-    padding: 10px;
+    padding: 30px;
     isolation: isolate;
   }
-
-  article button {
+  
+  button {
     background-color: transparent;
     border: none;
     cursor: pointer;
     isolation: isolate;
   }
-
-  article button:hover {
+  
+  button:hover {
     transform: scale(1.2);
   }
+  
+  img {
+    margin: 10px;
+  }
+}
 
-  footer {
+  /* footer {
     background-color: rgb(230, 200, 185);
     padding: 1em;
     margin-top: auto;
@@ -140,5 +149,74 @@ footer {
 
   .share-buttons li:hover {
     opacity: 1;
+  }
+} */
+
+@media(max-width: 600px) {
+  .container {
+    max-width: 400px;
+    min-height: fit-content;
+    background-color: rgb(230, 200, 185);
+    opacity: 0.8;
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    display: grid;
+  }
+  
+  .container p {
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+    padding: 25px;
+    isolation: isolate;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    isolation: isolate;
+  }
+  
+  button:hover {
+    transform: scale(1.2);
+  }
+  
+  img {
+    margin: 10px;
+    width: 40px;
+  }
+}
+
+@media(max-width: 400px) {
+  .container {
+    max-width: 300px;
+    min-height: fit-content;
+    background-color: rgb(230, 200, 185);
+    opacity: 0.8;
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    display: grid;
+  }
+  
+  .container p {
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+    padding: 25px;
+    isolation: isolate;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    isolation: isolate;
+  }
+  
+  button:hover {
+    transform: scale(1.2);
   }
 }
