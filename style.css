@@ -195,7 +195,7 @@ img {
     min-height: fit-content;
     background-color: rgb(230, 200, 185);
     opacity: 0.8;
-    padding: 20px;
+    padding: 15px;
     margin: auto;
     border-radius: 20px;
     display: grid;
@@ -205,7 +205,7 @@ img {
     font-size: 22px;
     font-weight: 500;
     text-align: center;
-    padding: 25px;
+    padding: 20px;
     isolation: isolate;
   }
   
