@@ -367,7 +367,8 @@ var verse = [
   `He must increase, but I must decrease\n\n<i>JOHN 3:30</i>`,
   `Repay no one evil for evil, but take thought for what is noble in the sight of all\n\n<i>ROMANS 12:17</i>`,
   `There is a great gain in godliness with contentment\n\n<i>1 TIMOTHY 6:6</i>`,
-  `If a widow has children or grandchildren, let them first learn their religious duty to their own family and make some return to their parents; for this is acceptable in the sight of God\n\n<i>1 TIMOTHY 5:4</i>`
+  `If a widow has children or grandchildren, let them first learn their religious duty to their own family and make some return to their parents; for this is acceptable in the sight of God\n\n<i>1 TIMOTHY 5:4</i>`,
+  `I have fought the good fight, I have finished the race, I have kept the faith\n\n<i>2 TIMOTHY 4:7</i>`
 ];
 
 function newVerse() {
