@@ -368,7 +368,11 @@ var verse = [
   `Repay no one evil for evil, but take thought for what is noble in the sight of all\n\n<i>ROMANS 12:17</i>`,
   `There is a great gain in godliness with contentment\n\n<i>1 TIMOTHY 6:6</i>`,
   `If a widow has children or grandchildren, let them first learn their religious duty to their own family and make some return to their parents; for this is acceptable in the sight of God\n\n<i>1 TIMOTHY 5:4</i>`,
-  `I have fought the good fight, I have finished the race, I have kept the faith\n\n<i>2 TIMOTHY 4:7</i>`
+  `I have fought the good fight, I have finished the race, I have kept the faith\n\n<i>2 TIMOTHY 4:7</i>`,
+  `But of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father\n\n<i>MARK 13:32</i>`,
+  `The Lord will fight for you, and you have only to be still\n\n<i>EXODUS 14:14</i>`,
+  `Arise, for it is your task, and we are with you; be strong and do it\n\n<i>EZRA 10:4</i>`,
+  `Why are you cast down, O my soul, and why are you disquieted within me? Hope in God; for I shall again praise Him, my help and my God\n\n<i>PSALM 42:11</i>`
 ];
 
 function newVerse() {
