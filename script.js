@@ -372,7 +372,8 @@ var verse = [
   `But of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father\n\n<i>MARK 13:32</i>`,
   `The Lord will fight for you, and you have only to be still\n\n<i>EXODUS 14:14</i>`,
   `Arise, for it is your task, and we are with you; be strong and do it\n\n<i>EZRA 10:4</i>`,
-  `Why are you cast down, O my soul, and why are you disquieted within me? Hope in God; for I shall again praise Him, my help and my God\n\n<i>PSALM 42:11</i>`
+  `Why are you cast down, O my soul, and why are you disquieted within me? Hope in God; for I shall again praise Him, my help and my God\n\n<i>PSALM 42:11</i>`,
+  `Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, He has poured out this which you see and hear\n\n<i>ACTS 2:33</i>`
 ];
 
 function newVerse() {
