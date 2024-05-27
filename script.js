@@ -373,7 +373,11 @@ var verse = [
   `The Lord will fight for you, and you have only to be still\n\n<i>EXODUS 14:14</i>`,
   `Arise, for it is your task, and we are with you; be strong and do it\n\n<i>EZRA 10:4</i>`,
   `Why are you cast down, O my soul, and why are you disquieted within me? Hope in God; for I shall again praise Him, my help and my God\n\n<i>PSALM 42:11</i>`,
-  `Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, He has poured out this which you see and hear\n\n<i>ACTS 2:33</i>`
+  `Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, He has poured out this which you see and hear\n\n<i>ACTS 2:33</i>`,
+  `If the world hates you, know that it has hated Me first\n\n<i>JOHN 15:18</i>`,
+  `Remember the word that I said to you, "A servant is not greater than his master". If they persecuted Me, they will persecute you; if they kept my word, they will keep yours also\n\n<i>JOHN 15:20</i>`,
+  `He who hates Me hates my Father also\n\n<i>JOHN 15:23</i>`,
+  `And you also are witnesses, because you have been with Me from the beginning\n\n<i>JOHN 15:27</i>`
 ];
 
 function newVerse() {
