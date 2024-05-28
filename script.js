@@ -377,7 +377,8 @@ var verse = [
   `If the world hates you, know that it has hated Me first\n\n<i>JOHN 15:18</i>`,
   `Remember the word that I said to you, "A servant is not greater than his master". If they persecuted Me, they will persecute you; if they kept my word, they will keep yours also\n\n<i>JOHN 15:20</i>`,
   `He who hates Me hates my Father also\n\n<i>JOHN 15:23</i>`,
-  `And you also are witnesses, because you have been with Me from the beginning\n\n<i>JOHN 15:27</i>`
+  `And you also are witnesses, because you have been with Me from the beginning\n\n<i>JOHN 15:27</i>`,
+  `No greater joy can I have than this, to hear that my children follow the truth\n\n<i>3 JOHN 1:4</i>`
 ];
 
 function newVerse() {
