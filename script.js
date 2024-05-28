@@ -140,7 +140,7 @@ var verse = [
   `To do righteousness and justice is more acceptable to the Lord than sacrifice\n\n<i>PROVERBS 21:3</i>`,
   `I write this to you who believe in the name of the Son of God, that you may know that you have eternal life\n\n<i>1 JOHN 5:13</i>`,
   `And this is the confidence which we have in Him, that if we ask anything according to His will He hears us\n\n<i>1 JOHN 5:14</i>`,
-  `And if we know that He hears us in whatever we ask, we know that we have obtained the requests made made of Him\n\n<i>1 JOHN 5:15</i>`,
+  `And if we know that He hears us in whatever we ask, we know that we have obtained the requests made of Him\n\n<i>1 JOHN 5:15</i>`,
   `All wrongdoing is sin, but there is sin which is not mortal\n\n<i>1 JOHN 5:17</i>`,
   `But thanks be to God, who gives us the victory through our Lord Jesus Christ\n\n<i>1 CORINTHIANS 15:57</i>`,
   `Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord, your labor is not in vain\n\n<i>1 CORINTHIANS 15:58</i>`,
