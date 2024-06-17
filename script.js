@@ -379,7 +379,8 @@ var verse = [
   `And you also are witnesses, because you have been with Me from the beginning\n\n<i>JOHN 15:27</i>`,
   `No greater joy can I have than this, to hear that my children follow the truth\n\n<i>3 JOHN 1:4</i>`,
   `For it is God's will that by doing right you should put to silence the ignorance of foolish men\n\n<i>1 PETER 2:15</i>`,
-  `So there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ\n\n<i>2 PETER 1:11</i>`
+  `So there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ\n\n<i>2 PETER 1:11</i>`,
+  `Though you soar aloft like the eagle, though your nest is set among the stars, thence I will bring you down, says the Lord\n\n<i>OBADIAH 1:4</i>`
 ];
 
 function newVerse() {
