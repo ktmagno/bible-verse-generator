@@ -380,7 +380,10 @@ var verse = [
   `No greater joy can I have than this, to hear that my children follow the truth\n\n<i>3 JOHN 1:4</i>`,
   `For it is God's will that by doing right you should put to silence the ignorance of foolish men\n\n<i>1 PETER 2:15</i>`,
   `So there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ\n\n<i>2 PETER 1:11</i>`,
-  `Though you soar aloft like the eagle, though your nest is set among the stars, thence I will bring you down, says the Lord\n\n<i>OBADIAH 1:4</i>`
+  `Though you soar aloft like the eagle, though your nest is set among the stars, thence I will bring you down, says the Lord\n\n<i>OBADIAH 1:4</i>`,
+  `You came near when I called you, and you said, "Do not fear"\n\n<i>Lamentations 3:57</i>`,
+  `He has made everything beautiful in its time; also He has put eternity into man's mind, yet so that He cannot find out what God has done from the beginning to the end\n\n<i>ECCLESIASTES 3:11</i>`,
+  `The word of God is alive and active\n\n<i>HEBREWS 4:12`
 ];
 
 function newVerse() {
