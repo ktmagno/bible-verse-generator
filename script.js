@@ -383,7 +383,8 @@ var verse = [
   `Though you soar aloft like the eagle, though your nest is set among the stars, thence I will bring you down, says the Lord\n\n<i>OBADIAH 1:4</i>`,
   `You came near when I called you, and you said, "Do not fear"\n\n<i>Lamentations 3:57</i>`,
   `He has made everything beautiful in its time; also He has put eternity into man's mind, yet so that He cannot find out what God has done from the beginning to the end\n\n<i>ECCLESIASTES 3:11</i>`,
-  `The word of God is alive and active\n\n<i>HEBREWS 4:12`
+  `I know that there is nothing better for them than to be happy and enjoy themselves as long as they live\n\n<i>ECCLESIASTES 3:12</i>`,
+  `Also that it is God's gift to man that everyone should eat and drink and take pleasure in all his toil\n\n<i>ECCLESIASTES 3:13</i>`
 ];
 
 function newVerse() {
