@@ -392,7 +392,7 @@ var verse = [
   `Even to your old age I am He, and to gray hairs I will carry you. I have made, and I will bear; I will carry and will save\n\n<i>ISAIAH 46:4</i>`,
   `But by the grace of God I am what I am, and His grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God which is with me\n\n<i>1 CORINTHIANS 15:10</i>`,
   `He who walks with wise men becomes wise, but the companion of fools will suffer harm\n\n<i>PROVERBS 13:20</i>`,
-  `Misfortune pursues sinners, but prosperity rewards the righteous\n\n<i>PROVERBS 13:21</i>`
+  `Misfortune pursues sinners, but prosperity rewards the righteous\n\n<i>PROVERBS 13:21</i>`,
 ];
 
 function newVerse() {
