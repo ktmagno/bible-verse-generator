@@ -381,7 +381,7 @@ var verse = [
   `For it is God's will that by doing right you should put to silence the ignorance of foolish men\n\n<i>1 PETER 2:15</i>`,
   `So there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ\n\n<i>2 PETER 1:11</i>`,
   `Though you soar aloft like the eagle, though your nest is set among the stars, thence I will bring you down, says the Lord\n\n<i>OBADIAH 1:4</i>`,
-  `You came near when I called you, and you said, "Do not fear"\n\n<i>Lamentations 3:57</i>`,
+  `You came near when I called you, and you said, "Do not fear"\n\n<i>LAMENTATIONS 3:57</i>`,
   `He has made everything beautiful in its time; also He has put eternity into man's mind, yet so that He cannot find out what God has done from the beginning to the end\n\n<i>ECCLESIASTES 3:11</i>`,
   `I know that there is nothing better for them than to be happy and enjoy themselves as long as they live\n\n<i>ECCLESIASTES 3:12</i>`,
   `Also that it is God's gift to man that everyone should eat and drink and take pleasure in all his toil\n\n<i>ECCLESIASTES 3:13</i>`,
@@ -390,7 +390,7 @@ var verse = [
   `Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Let the day's own trouble be sufficient for the day\n\n<i>MATTHEW 6:34</i>`,
   `And Jesus said to him, "If you can! All things are possible to him who believes\n\n<i>MARK 9:23</i>"`,
   `Even to your old age I am He, and to gray hairs I will carry you. I have made, and I will bear; I will carry and will save\n\n<i>ISAIAH 46:4</i>`,
-  `But by the grace of God I am what I am, and His grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God which is with me\n\n<i>1 CORINTHIANS 15:10</i>`
+  `But by the grace of God I am what I am, and His grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God which is with me\n\n<i>1 CORINTHIANS 15:10</i>`,
   `He who walks with wise men becomes wise, but the companion of fools will suffer harm\n\n<i>PROVERBS 13:20</i>`,
   `Misfortune pursues sinners, but prosperity rewards the righteous\n\n<i>PROVERBS 13:21</i>`
 ];
