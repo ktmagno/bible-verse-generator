@@ -393,6 +393,22 @@ var verse = [
   `But by the grace of God I am what I am, and His grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God which is with me\n\n<i>1 CORINTHIANS 15:10</i>`,
   `He who walks with wise men becomes wise, but the companion of fools will suffer harm\n\n<i>PROVERBS 13:20</i>`,
   `Misfortune pursues sinners, but prosperity rewards the righteous\n\n<i>PROVERBS 13:21</i>`,
+  `Do not be deceived: "Bad company ruins good morals"\n\n<i>1 CORINTHIANS 15:33</i>`,
+  `Come to your right mind, and sin no more. For some have no knowledge of God. I say this to your shame\n\n<i>1 CORINTHIANS 15:34</i>`,
+  `But thanks be to God, who gives us the victory through our Lord Jesus Christ\n\n<i>1 CORINTHIANS 15:57</i>`,
+  `Therefore take the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand\n\n<i>EPHESIANS 6:13</i>`,
+  `But He withdrew to the wilderness and prayed\n\n<i>LUKE 5:16</i>`,
+  `Every one then who hears these words of mine and does them will be like a wise man who built his house upon the rock\n\n<i>MATTHEW 7:24</i>`,
+  `For if you forgive men their trespasses, your heavenly Father also will forgive you\n\n<i>MATTHEW 6:14</i>`,
+  `Do not lay up for yourselves treasures on earth, where moth and rust consume and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth or rust consumes and where thieves do not break in and steal\n\n<i>MATTHEW 6:19-20</i>`,
+  `The eye is the lamp of the body. So, if your eye is sound, your whole body will be full of light\n\n<i>MATTHEW 6:22</i>`,
+  `And why are you anxious about clothing? Consider the lilies of the field, how they grow; they neither toil nor spin\n\n<i>MATTHEW 6:28</i>`,
+  `All scripture is inspired by God and profitable for teaching, for reproof, for correction, and for training in righteousness\n\n<i>2 TIMOTHY 3:16</i>`,
+  `But he said, "What is impossible with men is possible with God"\n\n<i>LUKE 18:27</i>`,
+  `Thy word is a lamp to my feet and a light to my path\n\n<i>PSALM 119:105</i>`,
+  `I am sorely afflicted; give me life, O Lord, according to thy word!\n\n<i>PSALM 119:107</i>`,
+  `Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance\n\n<i>LUKE 15:7</i>`,
+  
 ];
 
 function newVerse() {
