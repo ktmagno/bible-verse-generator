@@ -1,2 +1,2 @@
 # bible-verse-generator
- random bible verse generator //my first test project using html, css & javascript 😉
+ random bible verse generator //my first project using html, css & javascript 😉
