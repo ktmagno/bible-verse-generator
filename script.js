@@ -64,7 +64,6 @@ var verse = [
   `I know the Lord is always with me\n\n<i>PSALM 16:8</i>`,
   `Finally, brethren, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is gracious, if there is any excellence, if there is anything worthy of praise, think about these things\n\n<i>PHILIPPIANS 4:8</i>`,
   `Make me to know thy ways, O Lord; teach me thy paths. Lead me in thy truth, and teach me, for thou art the God of my salvation; for thee I wait all the day long\n\n<i>PSALM 25:4-5</i>`,
-  `He whose ear heeds wholesome admonition will abide among the wise\n\n<i>PROVERBS 15:31</i>`,
   `Enter His gates with thanksgiving, and His courts with praise! Give thanks to Him, bless His name!\n\n<i>PSALM 100:4</i>`,
   `He is not here; for He has risen, as He said. Come, see the place where He lay\n\n<i>MATTHEW 28:6</i>`,
   `In all your ways acknowledge Him, and He will make straight your paths\n\n<i>PROVERBS 3:6</i>`,
@@ -224,7 +223,6 @@ var verse = [
   `The Lord is not slow about His promise as some count slowness, but is forbearing toward you, not wishing that any should perish, but that all should reach repentance\n\n<i>2 PETER 3:9</i>`,
   `Commit your way to the Lord; trust in Him, and He will act\n\n<i>PSALM 37:5</i>`,
   `Above all hold unfailing your love for one another, since love covers a multitude of sins\n\n<i>1 PETER 4:8</i>`,
-  `I will sprinkle clean water upon you, and you shall be clean from all your uncleannesses, and from all your idols I will cleanse you\n\n<i>EZEKIEL 36:25</i>`,
   `Many are the afflictions of the righteous; but the Lord delivers him out of them all\n\n<i>PSALM 34:19</i>`,
   `You shall serve the Lord your God, and I will bless your bread and your water; and I will take sickness away from the midst of you\n\n<i>EXODUS 23:25</i>`,
   `But, as it is written, "What no eye has seen, nor ear heard, nor the heart of man conceived, what God has prepared for those who love Him,"\n\n<i>1 CORINTHIANS 2:9</i>`,
@@ -387,7 +385,7 @@ var verse = [
   `I am with you always, to the close of the age\n\n<i>MATTHEW 28:20</i>`,
   `But let it be the hidden person of the heart with the imperishable jewel of a gentle and quiet spirit, which in God's sight is very precious\n\n<i>1 PETER 3:4</i>`,
   `Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Let the day's own trouble be sufficient for the day\n\n<i>MATTHEW 6:34</i>`,
-  `And Jesus said to him, "If you can! All things are possible to him who believes\n\n<i>MARK 9:23</i>"`,
+  `And Jesus said to him, "If you can! All things are possible to him who believes\n\n<i>MARK 9:23</i>`,
   `Even to your old age I am He, and to gray hairs I will carry you. I have made, and I will bear; I will carry and will save\n\n<i>ISAIAH 46:4</i>`,
   `But by the grace of God I am what I am, and His grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God which is with me\n\n<i>1 CORINTHIANS 15:10</i>`,
   `He who walks with wise men becomes wise, but the companion of fools will suffer harm\n\n<i>PROVERBS 13:20</i>`,
@@ -434,7 +432,11 @@ var verse = [
   `But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, without uncertainty or insincerity\n\n<i>JAMES 3:17</i>`,
   `And the harvest of righteousness is sown in peace by those who make peace\n\n<i>JAMES 3:18</i>`,
   `So shun youthful passions and aim at righteousness, faith, love, and peace, along with those who call upon the Lord from a pure heart\n\n<i>2 TIMOTHY 2:22</i>`,
-  `But you shall receive power when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem and in all Judea and Samar'ia and to the end of the earth\n\n<i>ACTS 1:8</i>`
+  `But you shall receive power when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem and in all Judea and Samar'ia and to the end of the earth\n\n<i>ACTS 1:8</i>`,
+  `So neither he who plants nor he who waters is anything, but only God who gives the growth\n\n<i>1 CORINTHIANS 3:7</i>`,
+  `And the priest said to them, "Go in peace. The journey in which you go is under the eye of the Lord"\n\n<i>JUDGES 18:6</i>`,
+  `Bless the Lord, O my soul; and all that is within me, bless His holy name!\n\n<i>PSALM 103:1</i>`,
+
 ];
 
 function newVerse() {
