@@ -436,7 +436,12 @@ var verse = [
   `So neither he who plants nor he who waters is anything, but only God who gives the growth\n\n<i>1 CORINTHIANS 3:7</i>`,
   `And the priest said to them, "Go in peace. The journey in which you go is under the eye of the Lord"\n\n<i>JUDGES 18:6</i>`,
   `Bless the Lord, O my soul; and all that is within me, bless His holy name!\n\n<i>PSALM 103:1</i>`,
-
+  `For He is our peace, who has made us both one, and has broken down the dividing wall of hostility\n\n<i>EPHESIANS 2:14</i>`,
+  `Surely oppression makes the wise man foolish, and a bribe corrupts the mind\n\n<i>ECCLESIASTES 7:7</i>`,
+  `Be not righteous overmuch, and do not make yourself overwise; why should you destroy yourself?\n\n<i>ECCLESIASTES 7:16</i>`,
+  `Be not wicked overmuch, neither be a fool; why should you die before your time?\n\n<i>ECCLESIASTES 7:17</i>`,
+  `Wisdom gives strength to the wise man more than ten rulers that are in a city\n\n<i>ECCLESIASTES 7:19</i>`,
+  `All this I have tested by wisdom; I said, "I will be wise"; but it was far from me\n\n<i>ECCLESIASTES 7:23</i>`
 ];
 
 function newVerse() {
