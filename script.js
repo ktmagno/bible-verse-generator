@@ -290,7 +290,7 @@ var verse = [
   `Be strong, and let your heart take courage, all you who wait for the Lord!\n\n<i>PSALM 31:24</i>`,
   `I will instruct you and teach you the way you should go; I will counsel you with my eye upon you\n\n<i>PSALM 32:8</i>`,
   `Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling\n\n<i>PHILIPPIANS 2:12</i>`,
-  `Do all things without grumbling or questioning\n\n<i>PHILIPPIANS 2:14</i>`,
+  `Do all things without grumbling or questioning, that you may be blameless and innocent, children of God without blemish in the midst of a crooked and perverse generation, among whom you shine as lights in the world\n\n<i>PHILIPPIANS 2:14-15</i>`,
   `Him we proclaim, warning every man and teaching every man in all wisdom, that we may present every man mature in Christ\n\n<i>COLOSSIANS 1:28`,
   `Be not quick to anger, for anger lodges in the bosom of fools\n\n<i>ECCLESIASTES 7:9</i>`,
   `Better is the end of a thing than its beginning; and the patient in spirit is better than the proud in spirit\n\n<i>ECCLESIASTES 7:8</i>`,
@@ -332,7 +332,6 @@ var verse = [
   `Humble yourselves before the Lord and He will exalt you\n\n<i>JAMES 4:10</i>`,
   `There is one lawgiver and judge, He who is able to save and to destroy. But who are you that you judge your neighbor?\n\n<i>JAMES 4:12</i>`,
   `Whereas you do not know about tomorrow. What is your life? For you are a mist that appears for a little time and then vanishes\n\n<i>JAMES 4:14</i>`,
-  `Instead you ought to say, "If the Lord wills, we shall live and we shall do this or that"\n\n<i>JAMES 4:15</i>`,
   `I thank my God always when I remember you in my prayers\n\n<i>PHILEMON 1:4</i>`,
   `And I pray that the sharing of your faith may promote the knowledge of all the good that is ours in Christ\n\n<i>PHILEMON 1:6</i>`,
   `The Rock, His work is perfect; for all His ways are justice. A God of faithfulness and without inquity, just and right is He\n\n<i>DEUTERONOMY 32:4</i>`,
@@ -441,7 +440,25 @@ var verse = [
   `Be not righteous overmuch, and do not make yourself overwise; why should you destroy yourself?\n\n<i>ECCLESIASTES 7:16</i>`,
   `Be not wicked overmuch, neither be a fool; why should you die before your time?\n\n<i>ECCLESIASTES 7:17</i>`,
   `Wisdom gives strength to the wise man more than ten rulers that are in a city\n\n<i>ECCLESIASTES 7:19</i>`,
-  `All this I have tested by wisdom; I said, "I will be wise"; but it was far from me\n\n<i>ECCLESIASTES 7:23</i>`
+  `All this I have tested by wisdom; I said, "I will be wise"; but it was far from me\n\n<i>ECCLESIASTES 7:23</i>`,
+  `He who finds his life will lose it, and he who loses his life for my sake will find it\n\n<i>MATTHEW 10:39</i>`,
+  `Be not exceedingly angry, O Lord, and remember not iniquity forever. Behold, consider, we are all thy people\n\n<i>ISAIAH 64:9</i>`,
+  `Light rises in the darkness for the upright; the Lord is gracious, merciful and righteous\n\n<i>PSALM 112:4</i>`,
+  `He is not afraid of evil tidings; his heart is firm, trusting in the Lord\n\n<i>PSALM 112:7</i>`,
+  `And He died for all, that those who live might live no longer for themselves but for Him who for their sake died and was raised\n\n<i>2 CORINTHIANS 5:15</i>`,
+  `Create in me a clean heart, O God, and put a new and right spirit within me\n\n<i>PSALM 51:10</i>`,
+  `Likewise the Spirit helps us in our weakness; for we do not know how to pray as we ought, but the Spirit himself intercedes for us with sighs too deep for words\n\n<i>ROMANS 8:26</i> `,
+  `And he who searches the hearts of men knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God\n\n<i>ROMANS 8:27</i>`,
+  `There is great gain in godliness with contentment\n\n<i>1 TIMOTHY 6:6</i>`,
+  `For we brought nothing into the world, and we cannot take anything out of the world; but if we have food and clothing, with these we shall be content\n\n<i>1 TIMOTHY 6:7-8</i>`,
+  `For the love of money is the root of all evils; it is through this craving that some have wandered away from the faith and pierced their hearts with many pangs\n\n<i>1 TIMOTHY 6:10</i>`,
+  `But as for you, man of God, shun all this; aim at righteousness, godliness, faith, love, steadfastness, gentleness\n\n<i>1 TIMOTHY 6:11</i>`,
+  `Fight the good fight of the faith; take hold of the eternal life to which you were called when you made the good confession in the presence of many witnesses\n\n<i>1 TIMOTHY 6:12</i>`,
+  `And it shall be that whoever calls in the name of the Lord shall be saved\n\n<i>ACTS 2:21</i>`,
+  `Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations\n\n<i>JEREMIAH 1:5</i>`,
+  `If one gives answer before he hears, it is his folly and shame\n\n<i>PROVERBS 18:13</i>`,
+  `Let each of you look not only to his own interests, but also to the interests of others\n\n<i>PHILIPPIANS 2:4</i>`,
+  `For lo, the winter is past, the rain is over and gone. The flowers appear on the earth, the time of singing has come, and the voice of the turtledove is heard in our land\n\n<i>SONG OF SOLOMON 2:11-12</i>`
 ];
 
 function newVerse() {
