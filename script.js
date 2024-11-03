@@ -458,7 +458,14 @@ var verse = [
   `Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations\n\n<i>JEREMIAH 1:5</i>`,
   `If one gives answer before he hears, it is his folly and shame\n\n<i>PROVERBS 18:13</i>`,
   `Let each of you look not only to his own interests, but also to the interests of others\n\n<i>PHILIPPIANS 2:4</i>`,
-  `For lo, the winter is past, the rain is over and gone. The flowers appear on the earth, the time of singing has come, and the voice of the turtledove is heard in our land\n\n<i>SONG OF SOLOMON 2:11-12</i>`
+  `For lo, the winter is past, the rain is over and gone. The flowers appear on the earth, the time of singing has come, and the voice of the turtledove is heard in our land\n\n<i>SONG OF SOLOMON 2:11-12</i>`,
+  `As for the saints in the land, they are the noble, in whom is all my delight\n\n<i>PSALM 16:3</i>`,
+  `And the dust returns to the earth as it was, and the spirit returns to God who gave it\n\n<i>ECCLESIASTES 12:7</i>`,
+  `Vanity of vanities, says the Preacher; all is vanity\n\n<i>ECCLESIASTES 12:8</i>`,
+  `He who tills his land will have plenty of bread, but he who follows worthless pursuits will have plenty of poverty\n\n<i>PROVERBS 28:19</i>`,
+  `Return to your stronghold, O prisoners of hope; today I declare that I will restore you to double\n\n<i>ZECHARIAH 9:12</i>`,
+  `For the needy shall not always be forgotten, and the hope of the poor shall not perish forever\n\n<i>PSALM 9:18</i>`,
+  `For you shall go out in joy, and be led forth in peace; the mountains and the hills before you shall break forth into singing, and all the trees of the field shall clap their hands\n\n<i>ISAIAH 55:12</i>`
 ];
 
 function newVerse() {
