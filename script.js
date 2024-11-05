@@ -19,7 +19,6 @@ var verse = [
   `Do nothing from selfishness or conceit, but in humility count others better than yourselves\n\n<i>PHILIPPIANS 2:3</i>`,
   `For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and spirit, of joints and marrow, and discerning the thoughts and intentions of the heart\n\n<i>HEBREWS 4:12</i>`,
   `He who justifies the wicked and he who condemns the righteous are both alike an abomination to the Lord\n\n<i>PROVERBS 17:15</i>`,
-  `Why should a fool have a price in his hand to buy wisdom, when he has no mind?\n\n<i>PROVERBS 17:16</i>`,
   `A friend loves at all times, and a brother is born for adversity\n\n<i>PROVERBS 17:17</i>`,
   `My son, do not forget my teaching, but let your heart keep my commandments; for length of days and years of life and abundant welfare will they give you\n\n<i>PROVERBS 3:1</i>`,
   `Then you will walk on your way securely and your foot will not stumble. If you sit down, you will not be afraid; when you lie down, your sleep will be sweet\n\n<i>PROVERBS 3:23-24</i>`,
