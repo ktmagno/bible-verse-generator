@@ -353,7 +353,7 @@ var verse = [
   `You are all fair, my love; there is no flaw in you\n\n<i>SONG OF SOLOMON 4:7</i>`,
   `Even as the Son of man came not to be served but to serve, and to give His life as a ransom for many\n\n<i>MATTHEW 20:28</i>`,
   `Jesus Christ is the same yesterday and today and forever\n\n<i>HEBREWS 13:8</i>`,
-  `And my God will supply every need of yours according to his riches in glory in Christ Jesus\n\n<i>PHILIPPIANS 4:19</i>`,
+  `And my God will supply every need of yours according to His riches in glory in Christ Jesus\n\n<i>PHILIPPIANS 4:19</i>`,
   `For my thoughts are not your thoughts, neither are your ways my ways, says the Lord\n\n<i>ISAIAH 55:8</i>`,
   `That your faith might not rest in the wisdom of men, but in the power of God\n\n<i>1 CORINTHIANS 2:5</i>`,
   `And he will be the stability of your times, abundance of salvation, wisdom, and knowledge; the fear of the Lord is his treasure\n\n<i>ISAIAH 6:33</i>`,
