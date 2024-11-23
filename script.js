@@ -466,7 +466,8 @@ var verse = [
   `For the needy shall not always be forgotten, and the hope of the poor shall not perish forever\n\n<i>PSALM 9:18</i>`,
   `For you shall go out in joy, and be led forth in peace; the mountains and the hills before you shall break forth into singing, and all the trees of the field shall clap their hands\n\n<i>ISAIAH 55:12</i>`,
   `But as for me, I will look to the Lord, I will wait for the God of the salvation; My God will hear me\n\n<i>MICAH 7:7</i>`,
-  `But we are not of those who shrink back and are destroyed, but of those who have faith and keep their souls\n\n<i>HEBREWS 10:39</i>`
+  `But we are not of those who shrink back and are destroyed, but of those who have faith and keep their souls\n\n<i>HEBREWS 10:39</i>`,
+  `For you have need of endurance, so that you may do the will of God and receive what is promised\n\n<i>HEBREWS 10:36</i>`
 ];
 
 function newVerse() {
