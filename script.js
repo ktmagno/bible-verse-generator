@@ -171,7 +171,8 @@ var verse = [
   `Even though I walk through the valley of the shadow of death, I fear no evil; for thou art with me; thy rod and thy staff, they comfort me\n\n<i>PSALM 23:4</i>`,
   `He shall build a house for me, and I will establish His throne forever\n\n<i>1 CHRONICLES 17:12</i>`,
   `For a day in thy courts is better than a thousand elsewhere. I would rather be a doorkeeper in the  house of my God than dwell in the tents of wickedness\n\n<i>PSALM 84:10</i>`,
-  `For the Lord God is a sun and shield; he bestows favor and honor. No good thing does the Lord withhold from those who walk uprightly\n\n<i>PSALM 84:11</i>`,
+  `For the Lord God is a sun and shield; He bestows favor and honor. No good thing does the Lord withhold from those who walk uprightly\n\n<i>PSALM 84:11</i>`,
+  `O Lord of hosts, blessed is the man who trusts in thee!\n\n<i>PSALM 84:12</i>`,
   `Behold, God is my salvation; I will trust, and will not be afraid; for the Lord God is my strength and my song, and He has become my salvation\n\n<i>ISAIAH 12:2</i>`,
   `Then He said to me, "Fear not, Daniel, for from the first day that you set your mind to understand and humbled yourself before your God, your words have been heard, and I have come because of your words"\n\n<i>DANIEL 10:12</i>`,
   `If my people who are called by my name humble themselves, and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and will forgive their sin and heal their land\n\n<i>2 CHRONICLES 7:14</i>`,
@@ -468,7 +469,8 @@ var verse = [
   `But we are not of those who shrink back and are destroyed, but of those who have faith and keep their souls\n\n<i>HEBREWS 10:39</i>`,
   `For you have need of endurance, so that you may do the will of God and receive what is promised\n\n<i>HEBREWS 10:36</i>`,
   `May the Lord make you increase and abound in love for one another and for all, at the coming of our Lord Jesus with all His holy ones\n\n<i>1 THESSALONIANS 3:12-13</i>`,
-  `Blessed is the man who endures trial, for when he has stood the test he will receive the crown of life which God has promised to those who love Him\n\n<i>JAMES 1:12</i>`
+  `Blessed is the man who endures trial, for when he has stood the test he will receive the crown of life which God has promised to those who love Him\n\n<i>JAMES 1:12</i>`,
+  `He leads the humble in what is right, and teaches the humble his way\n\n<i>PSALM 25:9</i>`
 ];
 
 function newVerse() {
