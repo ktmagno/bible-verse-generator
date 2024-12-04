@@ -376,7 +376,6 @@ var verse = [
   `No greater joy can I have than this, to hear that my children follow the truth\n\n<i>3 JOHN 1:4</i>`,
   `For it is God's will that by doing right you should put to silence the ignorance of foolish men\n\n<i>1 PETER 2:15</i>`,
   `So there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ\n\n<i>2 PETER 1:11</i>`,
-  `Though you soar aloft like the eagle, though your nest is set among the stars, thence I will bring you down, says the Lord\n\n<i>OBADIAH 1:4</i>`,
   `You came near when I called you, and you said, "Do not fear"\n\n<i>LAMENTATIONS 3:57</i>`,
   `I know that there is nothing better for them than to be happy and enjoy themselves as long as they live\n\n<i>ECCLESIASTES 3:12</i>`,
   `Also that it is God's gift to man that everyone should eat and drink and take pleasure in all his toil\n\n<i>ECCLESIASTES 3:13</i>`,
@@ -467,7 +466,9 @@ var verse = [
   `For you shall go out in joy, and be led forth in peace; the mountains and the hills before you shall break forth into singing, and all the trees of the field shall clap their hands\n\n<i>ISAIAH 55:12</i>`,
   `But as for me, I will look to the Lord, I will wait for the God of the salvation; My God will hear me\n\n<i>MICAH 7:7</i>`,
   `But we are not of those who shrink back and are destroyed, but of those who have faith and keep their souls\n\n<i>HEBREWS 10:39</i>`,
-  `For you have need of endurance, so that you may do the will of God and receive what is promised\n\n<i>HEBREWS 10:36</i>`
+  `For you have need of endurance, so that you may do the will of God and receive what is promised\n\n<i>HEBREWS 10:36</i>`,
+  `May the Lord make you increase and abound in love for one another and for all, at the coming of our Lord Jesus with all His holy ones\n\n<i>1 THESSALONIANS 3:12-13</i>`,
+  `Blessed is the man who endures trial, for when he has stood the test he will receive the crown of life which God has promised to those who love Him\n\n<i>JAMES 1:12</i>`
 ];
 
 function newVerse() {
