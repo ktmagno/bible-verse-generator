@@ -10,7 +10,7 @@ var verse = [
   `The way of a fool is right in his own eyes, but a wise man listens to advice\n\n<i><small>PROVERBS 12:15</small></i>`,
   `Give to everyone who begs from you; and if anyone takes away your goods, do not ask for them again\n\n<i><small>LUKE 6:30</small></i>`,
   `And as you wish that men would do to you, do so to them\n\n<i><small>LUKE 6:31</small></i>`,
-  `For God has not give us a spirit of timidity but a spirit of power, love, and self-control\n\n<i><small>2 TIMOTHY 1:7</small></i>`,
+  `For God did not give us a spirit of timidity but a spirit of power and love and self-control\n\n<i><small>2 TIMOTHY 1:7</small></i>`,
   `God is our refuge and strength, a very present help in trouble\n\n<i><small>PSALM 46:1</small></i>`,
   `So Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for Him\n\n<i><small>HEBREWS 9:28</small></i>`,
   `But you, take courage! Do not let your hands be weak, for your work shall be rewarded\n\n<i><small>2 CHRONICLES 15:7</small></i>`,
@@ -18,7 +18,6 @@ var verse = [
   `Come to me, all who labor and are heavy laden, and I will give you rest\n\n<i><small>MATTHEW 11:28</small></i>`,
   `Do nothing from selfishness or conceit, but in humility count others better than yourselves\n\n<i><small>PHILIPPIANS 2:3</small></i>`,
   `For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and spirit, of joints and marrow, and discerning the thoughts and intentions of the heart\n\n<i><small>HEBREWS 4:12</small></i>`,
-  `He who justifies the wicked and he who condemns the righteous are both alike an abomination to the Lord\n\n<i><small>PROVERBS 17:15</small></i>`,
   `A friend loves at all times, and a brother is born for adversity\n\n<i><small>PROVERBS 17:17</small></i>`,
   `My son, do not forget my teaching, but let your heart keep my commandments; for length of days and years of life and abundant welfare will they give you\n\n<i><small>PROVERBS 3:1</small></i>`,
   `Then you will walk on your way securely and your foot will not stumble. If you sit down, you will not be afraid; when you lie down, your sleep will be sweet\n\n<i><small>PROVERBS 3:23-24</small></i>`,
@@ -224,7 +223,7 @@ var verse = [
   `Above all hold unfailing your love for one another, since love covers a multitude of sins\n\n<i><small>1 PETER 4:8</small></i>`,
   `Many are the afflictions of the righteous; but the Lord delivers him out of them all\n\n<i><small>PSALM 34:19</small></i>`,
   `You shall serve the Lord your God, and I will bless your bread and your water; and I will take sickness away from the midst of you\n\n<i><small>EXODUS 23:25</small></i>`,
-  `But, as it is written, "What no eye has seen, nor ear heard, nor the heart of man conceived, what God has prepared for those who love Him,"\n\n<i><small>1 CORINTHIANS 2:9</small></i>`,
+  `But, as it is written, "What no eye has seen, nor ear heard, nor the heart of man conceived, what God has prepared for those who love Him"\n\n<i><small>1 CORINTHIANS 2:9</small></i>`,
   `For in it the righteousness of God is revealed through faith for faith; as it is written, "He who through faith is righteous shall live."\n\n<i><small>ROMANS 1:17</small></i>`,
   `For I know the plans I have for you, says the Lord, plans for welfare and not for evil, to give you a future and a hope\n\n<i><small>JEREMIAH 29:11</small></i>`,
   `Then you will call upon me and come and pray to me, and I will hear you\n\n<i><small>JEREMIAH 29:12</small></i>`,
@@ -458,7 +457,7 @@ var verse = [
   `For lo, the winter is past, the rain is over and gone. The flowers appear on the earth, the time of singing has come, and the voice of the turtledove is heard in our land\n\n<i><small>SONG OF SOLOMON 2:11-12</small></i>`,
   `As for the saints in the land, they are the noble, in whom is all my delight\n\n<i><small>PSALM 16:3</small></i>`,
   `And the dust returns to the earth as it was, and the spirit returns to God who gave it\n\n<i><small>ECCLESIASTES 12:7</small></i>`,
-  `Vanity of vanities, says the Preacher; all is vanity\n\n<i><small>ECCLESIASTES 12:8</small></i>`,
+  `Vanity of vanities, says the preacher; all is vanity\n\n<i><small>ECCLESIASTES 12:8</small></i>`,
   `He who tills his land will have plenty of bread, but he who follows worthless pursuits will have plenty of poverty\n\n<i><small>PROVERBS 28:19</small></i>`,
   `Return to your stronghold, O prisoners of hope; today I declare that I will restore you to double\n\n<i><small>ZECHARIAH 9:12</small></i>`,
   `For the needy shall not always be forgotten, and the hope of the poor shall not perish forever\n\n<i><small>PSALM 9:18</small></i>`,
@@ -468,7 +467,9 @@ var verse = [
   `For you have need of endurance, so that you may do the will of God and receive what is promised\n\n<i><small>HEBREWS 10:36</small></i>`,
   `May the Lord make you increase and abound in love for one another and for all, at the coming of our Lord Jesus with all His holy ones\n\n<i><small>1 THESSALONIANS 3:12-13</small></i>`,
   `Blessed is the man who endures trial, for when he has stood the test he will receive the crown of life which God has promised to those who love Him\n\n<i><small>JAMES 1:12</small></i>`,
-  `He leads the humble in what is right, and teaches the humble his way\n\n<i><small>PSALM 25:9</small></i>`
+  `He leads the humble in what is right, and teaches the humble his way\n\n<i><small>PSALM 25:9</small></i>`,
+  `Every valley shall be filled, and every mountain and hill shall be brought low, and the crooked shall be made straight, and the rough ways shall be made smooth\n\n<i><small>LUKE 3:5-6</small></i>`,
+  `Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God\n\n<i><small>HEBREWS 13:16</small></i>`
 ];
 
 function newVerse() {
