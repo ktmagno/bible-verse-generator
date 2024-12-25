@@ -469,7 +469,13 @@ var verse = [
   `Blessed is the man who endures trial, for when he has stood the test he will receive the crown of life which God has promised to those who love Him\n\n<i><small>JAMES 1:12</small></i>`,
   `He leads the humble in what is right, and teaches the humble his way\n\n<i><small>PSALM 25:9</small></i>`,
   `Every valley shall be filled, and every mountain and hill shall be brought low, and the crooked shall be made straight, and the rough ways shall be made smooth\n\n<i><small>LUKE 3:5-6</small></i>`,
-  `Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God\n\n<i><small>HEBREWS 13:16</small></i>`
+  `Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God\n\n<i><small>HEBREWS 13:16</small></i>`,
+  `You will decide on a matter, and it will be established for you, and light will shine on your ways\n\n<i><small>JOB 22:28</small></i>`,
+  `And from His fullness have we all received, grace upon grace\n\n<i><small>JOHN 1:16</small></i>`,
+  `The wicked borrows, and cannot pay back, but the righteous is generous and gives\n\n<i><small>PSALM 37:21</small></i>`,
+  `In the day of prosperity be joyful, and in the day of adversity consider; God has made the one as well as the other, so that man may not find out anything that will be after him\n\n<i><small>ECCLESIASTES 7:14</small></i>`,
+  `Wisdom gives strength to the wise men more than ten rulers that are in a city\n\n<i><small>ECCLESIASTES 7:19</small></i>`,
+  `Surely there is not a righteous man on earth who does good and never sins\n\n<i><small>ECCLESIASTES 7:20</small></i>`
 ];
 
 function newVerse() {
