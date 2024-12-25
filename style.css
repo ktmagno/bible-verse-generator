@@ -21,7 +21,7 @@ body {
 .container {
   max-width: 800px;
   min-height: fit-content;
-  background-color: rgb(230, 200, 185);
+  background-color: #BAB9BE;
   opacity: 0.8;
   padding: 20px;
   margin: auto;
