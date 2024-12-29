@@ -199,7 +199,7 @@ var verse = [
   `Yes, the Lord will give what is good, and our land will yield its increase\n\n<i><small>PSALM 85:12</small></i>`,
   `Righteousness will go before him, and make his footsteps a way\n\n<i><small>PSALM 85:13</small></i>`,
   `There is none holy like the Lord, there is none besides thee; there is no rock like our God\n\n<i><small>1 SAMUEL 2:2</small></i>`,
-  `Have no anxiety about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God\n\n<i>PHILIPPIANS 4:6`,
+  `Have no anxiety about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God\n\n<i><small>PHILIPPIANS 4:6</small></i>`,
   `Better is a dinner of herbs where love is than a fatted ox and hatred with it\n\n<i><small>PROVERBS 15:17</small></i>`,
   `Let not your hearts be troubled; believe in God, believe also in me\n\n<i><small>JOHN 14:1</small></i>`,
   `A gentle tongue is a tree of life, but perverseness in it breaks the spirit\n\n<i><small>PROVERBS 15:4</small></i>`,
@@ -472,7 +472,6 @@ var verse = [
   `Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God\n\n<i><small>HEBREWS 13:16</small></i>`,
   `You will decide on a matter, and it will be established for you, and light will shine on your ways\n\n<i><small>JOB 22:28</small></i>`,
   `And from His fullness have we all received, grace upon grace\n\n<i><small>JOHN 1:16</small></i>`,
-  `The wicked borrows, and cannot pay back, but the righteous is generous and gives\n\n<i><small>PSALM 37:21</small></i>`,
   `In the day of prosperity be joyful, and in the day of adversity consider; God has made the one as well as the other, so that man may not find out anything that will be after him\n\n<i><small>ECCLESIASTES 7:14</small></i>`,
   `Wisdom gives strength to the wise men more than ten rulers that are in a city\n\n<i><small>ECCLESIASTES 7:19</small></i>`,
   `Surely there is not a righteous man on earth who does good and never sins\n\n<i><small>ECCLESIASTES 7:20</small></i>`
