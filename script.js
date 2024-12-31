@@ -313,7 +313,6 @@ var verse = [
   `Gracious is the Lord, and righteous; our God is merciful\n\n<i><small>PSALM 116:5</small></i>`,
   `What shall I render to the Lord for all His bounty to me?\n\n<i><small>PSALM 116:12</small></i>`,
   `So Jacob served seven years for Rachel, and they seemed to him but a few days because of the love he had for her\n\n<i><small>GENESIS 29:20</small></i>`,
-  `God said to Moses, "I am who I am." And He said, "Say this to people of Israel, 'I am has sent me to you'"\n\n<i><small>EXODUS 3:14</small></i>`,
   `For with God nothing will be impossible\n\n<i><small>LUKE 1:37</small></i>`,
   `And Mary said, "Behold, I am the handmaid of the Lord; let it be done to me according to your word." And the angel departed from her\n\n<i><small>LUKE 1:38</small></i>`,
   `Moreover choose able men from all the people, such as fear God, men who are trustworthy and who hate a bribe; and place such men over the people as rulers of thousands, of hundreds, of fifties, and of tens\n\n<i><small>EXODUS 18:21</small></i>`,
@@ -474,7 +473,8 @@ var verse = [
   `And from His fullness have we all received, grace upon grace\n\n<i><small>JOHN 1:16</small></i>`,
   `In the day of prosperity be joyful, and in the day of adversity consider; God has made the one as well as the other, so that man may not find out anything that will be after him\n\n<i><small>ECCLESIASTES 7:14</small></i>`,
   `Wisdom gives strength to the wise men more than ten rulers that are in a city\n\n<i><small>ECCLESIASTES 7:19</small></i>`,
-  `Surely there is not a righteous man on earth who does good and never sins\n\n<i><small>ECCLESIASTES 7:20</small></i>`
+  `Surely there is not a righteous man on earth who does good and never sins\n\n<i><small>ECCLESIASTES 7:20</small></i>`,
+  `For to you is born this day in the city of David a Savior, who is Christ the Lord\n\n<i><small>LUKE 2:11</small></i>`
 ];
 
 function newVerse() {
