@@ -474,7 +474,8 @@ var verse = [
   `In the day of prosperity be joyful, and in the day of adversity consider; God has made the one as well as the other, so that man may not find out anything that will be after him\n\n<i><small>ECCLESIASTES 7:14</small></i>`,
   `Wisdom gives strength to the wise men more than ten rulers that are in a city\n\n<i><small>ECCLESIASTES 7:19</small></i>`,
   `Surely there is not a righteous man on earth who does good and never sins\n\n<i><small>ECCLESIASTES 7:20</small></i>`,
-  `For to you is born this day in the city of David a Savior, who is Christ the Lord\n\n<i><small>LUKE 2:11</small></i>`
+  `For to you is born this day in the city of David a Savior, who is Christ the Lord\n\n<i><small>LUKE 2:11</small></i>`,
+  `The Lord will keep you from all evil; He will keep your life\n\n<i><small>PSALM 121:7</small></i>`
 ];
 
 function newVerse() {
