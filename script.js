@@ -475,7 +475,9 @@ var verse = [
   `Wisdom gives strength to the wise men more than ten rulers that are in a city\n\n<i><small>ECCLESIASTES 7:19</small></i>`,
   `Surely there is not a righteous man on earth who does good and never sins\n\n<i><small>ECCLESIASTES 7:20</small></i>`,
   `For to you is born this day in the city of David a Savior, who is Christ the Lord\n\n<i><small>LUKE 2:11</small></i>`,
-  `The Lord will keep you from all evil; He will keep your life\n\n<i><small>PSALM 121:7</small></i>`
+  `The Lord will keep you from all evil; He will keep your life\n\n<i><small>PSALM 121:7</small></i>`,
+  `If the world hates you, know that it has hated Me before it hated you\n\n<i><small>JOHN 15:18</small></i>`,
+  `Jesus answered him, "Because I said to you, I saw you under the fig tree, do you believe? You shall see greater things than these"\n\n<i><small>JOHN 1:50</small></i>`
 ];
 
 function newVerse() {
