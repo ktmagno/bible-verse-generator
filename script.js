@@ -476,8 +476,8 @@ var verse = [
   `For to you is born this day in the city of David a Savior, who is Christ the Lord\n\n<i><small>LUKE 2:11</small></i>`,
   `The Lord will keep you from all evil; He will keep your life\n\n<i><small>PSALM 121:7</small></i>`,
   `If the world hates you, know that it has hated Me before it hated you\n\n<i><small>JOHN 15:18</small></i>`,
-  `Jesus answered him, "Because I said to you, I saw you under the fig tree, do you believe? You shall see greater things than these"\n\n<i><small>JOHN 1:50</small></i>`
-  `But the Lord said to Samuel, "Do not look on his appearance or on the height of his stature, because I have rejected him; for the Lord sees not as man sees; man looks on the outward appearance, but the Lord looks on the heart"\n\n<i><small>1 SAMUEL 16:7</small></i>`
+  `Jesus answered him, "Because I said to you, I saw you under the fig tree, do you believe? You shall see greater things than these"\n\n<i><small>JOHN 1:50</small></i>`,
+  `But the Lord said to Samuel, "Do not look on his appearance or on the height of his stature, because I have rejected him; for the Lord sees not as man sees; man looks on the outward appearance, but the Lord looks on the heart"\n\n<i><small>1 SAMUEL 16:7</small></i>`,
 ];
 
 function newVerse() {
