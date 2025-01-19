@@ -273,7 +273,7 @@ var verse = [
   `It is good that one should wait quietly for the salvation of the Lord\n\n<i><small>LAMENTATIONS 3:26</small></i>`,
   `The end of all things is at hand; therefore keep sane and sober for your prayers\n\n<i><small>1 PETER 4:7</small></i>`,
   `Cast your burden on the Lord, and He will sustain you; He will never permit the righteous to be moved\n\n<i><small>PSALM 55:22</small></i>`,
-  `Practice hospitality ungrudgingly to one another\n\n<i>1 PETER 4:9`,
+  `Practice hospitality ungrudgingly to one another\n\n<i><small>1 PETER 4:9</small></i>`,
   `My beloved is mine and I am his, he pastures his flock among the lilies\n\n<i><small>SONG OF SOLOMON 2:16</small></i>`,
   `And above all these put on love, which binds everything together in perfect harmony\n\n<i><small>COLOSSIANS 3:14</small></i>`,
   `Little children, let us not love in word or speech but in deed and in truth\n\n<i><small>1 JOHN 3:18</small></i>`,
