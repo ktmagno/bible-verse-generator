@@ -24,7 +24,6 @@ body {
 .container {
   max-width: 800px;
   min-height: fit-content;
-/*   background-color: #D6D5D8; */
   background-color: #DEDCE1;
   opacity: 0.8;
   padding: 20px;
@@ -59,7 +58,6 @@ img {
   .container {
     max-width: 600px;
     min-height: fit-content;
-    background-color: #D6D5D8;
     opacity: 0.8;
     padding: 20px;
     margin: auto;
@@ -94,7 +92,6 @@ img {
   .container {
     max-width: 400px;
     min-height: fit-content;
-    background-color: #D6D5D8;
     opacity: 0.8;
     padding: 20px;
     margin: auto;
@@ -130,7 +127,6 @@ img {
   .container {
     max-width: 300px;
     min-height: fit-content;
-    background-color: #D6D5D8;
     opacity: 0.8;
     padding: 15px;
     margin: auto;
