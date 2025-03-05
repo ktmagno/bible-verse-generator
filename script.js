@@ -71,7 +71,7 @@ var verse = [
   `The Lord lift up His countenance upon you, and give you peace\n\n<i><small>NUMBERS 6:26</small></i>`,
   `With all lowliness and meekness, with patience, forbearing one another in love, eager to maintain the unity of the Spirit in the bond of peace\n\n<i><small>EPHESIANS 4:2-3</small></i>`,
   `Even a fool who keeps silent is considered wise; when he closes his lips, he is deemed intelligent\n\n<i><small>PROVERBS 17:28</small></i>`,
-  `O come, let us worship and bow down, let us kneel before the Lord, our Maker!\n\n<i><small>PSALM 95:6</small></i>`,
+  `O come, let us worship and bow down, let us kneel before the Lord, our maker!\n\n<i><small>PSALM 95:6</small></i>`,
   `But I say, walk by the Spirit, and do not gratify the desires of the flesh\n\n<i><small>GALATIANS 5:16</small></i>`,
   `But they who wait for the Lord shall renew their strength, they shall mount up with wings like eagles, they shall run and not be weary, they shall walk and not faint\n\n<i><small>ISAIAH 40:31</small></i>`,
   `For where your treasure is, there your heart will also be\n\n<i><small>MATTHEW 6:21</small></i>`,
