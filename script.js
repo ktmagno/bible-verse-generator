@@ -261,7 +261,6 @@ var verse = [
   `Two are better than one, because they have a good reward for their toil\n\n<i><small>ECCLESIASTES 4:9</small></i>`,
   `Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you\n\n<i><small>MATTHEW 7:7</small></i>`,
   `Wisdom builds her house, but folly with her own hands tears it down\n\n<i><small>PROVERBS 14:1</small></i>`,
-  `Leave the presence of a fool, for there you do not meet words of knowledge\n\n<i><small>PROVERBS 14:7</small></i>`,
   `He has made everything beautiful in its time; also He has put eternity into man's mind, yet so that he cannot find out what God has done from the beginning to the end\n\n<i><small>ECCLESIASTES 3:11</small></i>`,
   `He who forgives an offense seeks love, but he who repeats a matter alienates a friend\n\n<i><small>PROVERBS 17:9</small></i>`,
   `O give thanks to the Lord, for He is good; for His steadfast love endures forever!\n\n<i><small>PSALM 107:1</small></i>`,
