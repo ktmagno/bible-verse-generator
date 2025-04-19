@@ -381,7 +381,6 @@ var verse = [
   `And Jesus said to him, "If you can! All things are possible to him who believes\n\n<i><small>MARK 9:23</small></i>`,
   `Even to your old age I am He, and to gray hairs I will carry you. I have made, and I will bear; I will carry and will save\n\n<i><small>ISAIAH 46:4</small></i>`,
   `But by the grace of God I am what I am, and His grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God which is with me\n\n<i><small>1 CORINTHIANS 15:10</small></i>`,
-  `He who walks with wise men becomes wise, but the companion of fools will suffer harm\n\n<i><small>PROVERBS 13:20</small></i>`,
   `Misfortune pursues sinners, but prosperity rewards the righteous\n\n<i><small>PROVERBS 13:21</small></i>`,
   `Do not be deceived: "Bad company ruins good morals"\n\n<i><small>1 CORINTHIANS 15:33</small></i>`,
   `Come to your right mind, and sin no more. For some have no knowledge of God. I say this to your shame\n\n<i><small>1 CORINTHIANS 15:34</small></i>`,
